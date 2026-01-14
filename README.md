@@ -14,15 +14,13 @@ Using exploratory data analysis, PCA, hierarchical clustering, linear regression
 
 ---
 
-## 📄 HTML Reports
+## View the Analysis
 
-HTML-rendered versions of all notebooks are available in the `html/` folder:
+👉 **[View the full analysis as rendered HTML reports](https://ashleykennedy10.github.io/spotify-popularity-analysis/)**
 
-- `html/main_report.html`
-- `html/eda_supporting_material.html`
-- `html/supporting_cluster_material.html`
-- `html/predictions_and_cv_supporting_material.html`
-- `html/xgboost.html`
+The HTML reports provide a complete, readable version of the analysis and results.
+Notebooks are included in this repository for reproducibility.
+
 
 ---
 
